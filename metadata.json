@@ -1,0 +1,6 @@
+{
+  "name": "Melukis Huruf",
+  "description": "Aplikasi interaktif menelusuri dan melukis huruf dengan pola warna-warni yang menyenangkan untuk anak-anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
